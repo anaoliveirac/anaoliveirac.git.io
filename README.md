@@ -11,7 +11,7 @@
         <header>
             <div class="photo">
                 <!-- Replace with your photo -->
-                <img src="1571083074499.jpg" " alt="Your Photo">
+                <img src="1571083074499.jpg" alt="Your Photo">
             </div>
             <div class="header-info">
                 <h1>Ana Paula de Oliveira Costa</h1>
